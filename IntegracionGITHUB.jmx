@@ -19,7 +19,7 @@
           </elementProp>
           <elementProp name="URL_Reportes" elementType="Argument">
             <stringProp name="Argument.name">URL_Reportes</stringProp>
-            <stringProp name="Argument.value">C:\Users\Usuario\Documents\SOFTESTING\Integracion_continua_PNF\1.Local\2.Resultados\2.1Informes</stringProp>
+            <stringProp name="Argument.value">C:\Users\Usuario\Documents\SOFTESTING\Integracion_continua_PNF\2.GITHUB\2.Resultados\2.1Informes</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
         </collectionProp>
